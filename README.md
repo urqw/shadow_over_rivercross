@@ -4,7 +4,7 @@ Text-based game "A Shadow over Rivercross" (Russian: "Тень над Ривер
 
 The game is in Russian, developed for URQ_DOS, adapted for URQ module of INSTEAD, and adapted for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#shadow_over_rivercross).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=shadow_over_rivercross).
 
 The game was first published on January 8, 2006.
 
